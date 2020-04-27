@@ -2,4 +2,9 @@
 劉純儒
 410832044
 企管一
+
+第二題
 https://github.com/ru-nnnn/problem2-1.md.git
+
+第三題
+https://github.com/ru-nnnn/problem-3.md.git
